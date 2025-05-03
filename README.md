@@ -69,11 +69,6 @@ Aspiring Cybersecurity Analyst & Junior Sysadmin
 
 
 Feel free to fork, contribute, or connect.
-📜 License
-
-This project is licensed under the MIT License. See the LICENSE file for full details.
-
-
 
 
 
